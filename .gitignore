@@ -1,24 +1,4 @@
 ############################
-# OS X
-############################
-
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon
-.Spotlight-V100
-.Trashes
-._*
-
-
-############################
-# Linux
-############################
-
-*~
-
-
-############################
 # Windows
 ############################
 
@@ -94,6 +74,7 @@ logs
 results
 node_modules
 .node_history
+package-lock.json
 
 ############################
 # Tests
